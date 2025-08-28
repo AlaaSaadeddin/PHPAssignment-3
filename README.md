@@ -2,7 +2,6 @@
 
 A responsive and interactive web-based **Student Management Dashboard** built using **HTML**, **CSS (Bootstrap 5)**, **JavaScript (jQuery + DataTables)**, and **PHP** for dynamic data rendering. This application allows you to **view, edit, delete**, and **export** student data easily.
 
-![Student Database Screenshot](https://via.placeholder.com/800x400.png?text=Student+Database+UI)
 
 ---
 
