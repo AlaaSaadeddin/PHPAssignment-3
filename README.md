@@ -1,5 +1,10 @@
 # 🎓 Student Database
 
+## 🚀 Live Demo  
+🔗 [Click here to view the project](http://student-info.page.gd)
+
+---
+
 A responsive and interactive web-based **Student Management Dashboard** built using **HTML**, **CSS (Bootstrap 5)**, **JavaScript (jQuery + DataTables)**, and **PHP** for dynamic data rendering. This application allows you to **view, edit, delete**, and **export** student data easily.
 
 
