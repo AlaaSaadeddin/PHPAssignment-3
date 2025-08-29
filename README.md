@@ -1,7 +1,7 @@
 # 🎓 Student Database
 
 ## 🚀 Live Demo  
-🔗 [Click here to view the project](http://student-info.page.gd)
+🔗 [Click here to view the project](https://student-info.page.gd/)
 
 ---
 
